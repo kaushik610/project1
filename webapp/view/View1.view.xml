@@ -3,7 +3,7 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
         <content >
-        <Text text="new project"></Text>
+        <Text text="new project ss"></Text>
         </content>
     </Page>
 </mvc:View>
